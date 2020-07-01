@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "fastify": "^2.15.1",
+    "menubar": "^9.0.1",
+    "socket.io": "^2.3.0",
+    "socket.io-client": "^2.3.0",
+    "twilio": "^3.47.0"
+  }
+}
