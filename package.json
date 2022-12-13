@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fastify": "^2.15.1",
     "menubar": "^9.0.1",
     "socket.io": "^2.3.0",
